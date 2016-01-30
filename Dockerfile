@@ -41,6 +41,7 @@ RUN apt-get install -y --no-install-recommends \
 	git \
 	gperf \
 	intltool \
+	libgdk-pixbuf2.0-dev \
 	libffi-dev \
 	libgmp-dev \
 	libmpc-dev \
@@ -51,6 +52,7 @@ RUN apt-get install -y --no-install-recommends \
 	openssl \
 	patch \
 	pkg-config \
+	p7zip-full \
 	ruby \
 	scons \
 	subversion \
