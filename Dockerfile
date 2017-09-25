@@ -14,7 +14,7 @@
 # Once build, you can enter the container via
 #  docker run qt -ti bash
 #
-# (c) 2014,2015 by Sebastian Bauer
+# (c) 2014-2017 by Sebastian Bauer
 #
 # Note that Docker requires a relatively recent Linux kernel.
 # 3.8 is the current minimum.
